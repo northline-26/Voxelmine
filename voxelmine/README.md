@@ -19,6 +19,8 @@ This game is still in beta, so expect some bugs.
 
 You cannot smelt items in villages for some reason, which could be due to schematics. But if you're outside of the "village zone" then smelting works...
 
+## OTHER
+
 This is a game for the [Luanti engine](https://www.luanti.org/), install
 at least version 5.6.0 to play it.
 
