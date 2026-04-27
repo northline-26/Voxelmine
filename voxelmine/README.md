@@ -1,7 +1,5 @@
 # Voxelmine
 
-[![ContentDB](https://content.luanti.org/packages/sfan5/minetest_classic/shields/downloads/)](https://content.luanti.org/packages/sfan5/minetest_classic/)
-
 This game is a fork of Sfan5's Minetest Classic game and Minetest Game, features  include:
 
 * Realistic 16x16 textures
